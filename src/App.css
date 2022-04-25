@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.component {
+  margin: 8px;
+  padding: 8px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
